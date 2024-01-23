@@ -2,8 +2,7 @@
     "compilerOptions": {
       "outDir": "./dist",
       "rootDir": "./src",
-      // інші параметри...
+      "downlevelIteration": true
     },
-    // інші параметри...
   }
   
